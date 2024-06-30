@@ -25,5 +25,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: dist/browser
-          branch: prod
+          branch: prod2
           token: ${{ secrets.CODE_TREINO_SECRET }}
